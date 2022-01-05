@@ -31,3 +31,32 @@ section{
 .border-color-left{
     border-left: 5px solid orange;
 }
+.my-mission{
+    text-align: center;
+    margin-top: 50px;
+}
+.flexible-container{
+    display: flex;
+    justify-content: center;
+}
+.bg1{
+    background-color: rgb(235, 188, 235);
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-right: 180px;
+    margin-bottom: 50px;
+}
+.bg2{
+    background-color: rgb(235, 188, 235);
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-right: 180px;
+    margin-bottom: 50px;
+}
+.bg3{
+    background-color: rgb(235, 188, 235);
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-right: 180px;
+    margin-bottom: 50px;
+}
