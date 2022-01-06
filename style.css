@@ -23,7 +23,7 @@ section{
 }
 .know-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(rgb(224, 140, 130), tomato);
     padding: 10px 40px;
     color: white;
     font-weight: 700;
@@ -87,8 +87,8 @@ section{
     margin-left: 70px;
     margin-right: 50px;
     padding-right: 100px;
-    border-style: inset;
-    border-width: 25px;
+    border-style: outset;
+    border-width: 15px;
     border-radius: 20px;
     border-color: #e59ce7f8;
 }
