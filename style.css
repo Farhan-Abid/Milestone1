@@ -41,7 +41,7 @@ section{
     justify-content: center;
 }
 .bg1{
-    background-color: rgb(235, 188, 235);
+    background-color: rgb(243, 224, 243);
     border-radius: 30px;
     border-style: solid #d37e7e;
     margin-left: 80px;
@@ -75,6 +75,22 @@ section{
 .hardwork{
     text-align: center;
     color: whitesmoke;
+}
+.about-me{
+    text-align: center;
+    margin-top: 80px;
+}
+.myself{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 70px;
+    margin-right: 50px;
+    padding-right: 100px;
+    border-style: inset;
+    border-width: 25px;
+    border-radius: 20px;
+    border-color: #e59ce7f8;
 }
 
 
